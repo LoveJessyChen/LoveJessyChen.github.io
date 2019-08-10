@@ -12,6 +12,11 @@ https://pan.lanzou.com/u/198099861
 
 https://LoveJessyChen.github.io/XinRepo/
 
+# 我的微信公众号
+
+LoveJessyChen
+
+
 # 推荐一些其他实用的小网站
 
 ## iOS/macOS/软件类
@@ -42,5 +47,4 @@ http://music.sonimei.cn
 https://www.sonimei.cn
 
 
-# 我的微信公众号
-LoveJessyChen
+
