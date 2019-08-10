@@ -93,7 +93,15 @@ http://music.sonimei.cn
 
 https://www.sonimei.cn
 
+# 手机的脚本插件
 
+## Alook For iOS
+
+## via For Android
+
+### 轻插件
+
+https://m.via-app.cn/via/
 
 # Future Features
 
