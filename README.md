@@ -12,9 +12,9 @@ https://pan.lanzou.com/u/198099861
 
 https://LoveJessyChen.github.io/XinRepo/
 
-## 推荐一些其他实用的小网站
+# 推荐一些其他实用的小网站
 
-### iOS/macOS/软件类
+## iOS/macOS/软件类
 https://iBeta.me
 
 https://ipsw.me
@@ -28,7 +28,7 @@ https://xclient.info
 https://www.0daydown.com
 
 
-### 音乐类
+## 音乐类
 http://audiobar.cn
 
 https://audioz.download
@@ -36,7 +36,7 @@ https://audioz.download
 http://audiohunt.biz
 
 
-### 音视频类
+## 音视频类
 http://music.sonimei.cn
 
 https://www.sonimei.cn
