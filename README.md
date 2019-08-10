@@ -48,5 +48,21 @@ http://music.sonimei.cn
 
 https://www.sonimei.cn
 
+# Future Features
+
+AirPods 有个不好的地方，
+
+不需要充电盒 就能充电更好；
+
+直接把两个耳机 放在上面就能充。
+
+
+
+我觉得 无线充电 不应该贴在上面，
+
+能够悬空接受电量
+
+# 更加自由 更加模块化 拓展性更强
+
 
 
