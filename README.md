@@ -1,2 +1,2 @@
-# Xin's Jailbreak Repo
-Xin's Jailbreak Repo
+# Xin's Website
+Xin's Website
