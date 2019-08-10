@@ -21,7 +21,7 @@ LoveJessyChen
 
 # 推荐一些其他实用的小网站
 
-## iOS/macOS/软件类
+## iOS/macOS/Win软件类
 https://iBeta.me
 
 https://ipsw.me
@@ -36,12 +36,42 @@ https://www.0daydown.com
 
 https://masuit.com/
 
+https://www.naodai.org/
+
 ## 音乐加密文件在线解锁
 http://moresound.tk/music/tool/
 
 https://tool.ixarea.com/music/
 
-## 音频应用类
+# 脚本软件或插件
+## Tampermonkey
+
+适用于 Chrome, Microsoft Edge, Safari, Opera Next, Firefox，Dolphin Browser，UC Browser
+
+https://tampermonkey.net/
+
+## Violentmonkey
+
+仅适用于火狐浏览器
+
+https://addons.mozilla.org/firefox/addon/violentmonkey/
+
+## Qupzilla 浏览器
+
+不需要额外的插件
+
+## Adguard For Win
+
+广告过滤软件 直接加载。
+
+！！其他平台版本暂无此功能！！
+
+## 脚本插件JS
+
+https://greasyfork.org/zh-CN
+
+
+# 音频应用类
 http://audiobar.cn
 
 https://audioz.download
@@ -49,10 +79,12 @@ https://audioz.download
 http://audiohunt.biz
 
 
-## 音视频类
+# 音视频类
 http://music.sonimei.cn
 
 https://www.sonimei.cn
+
+
 
 # Future Features
 
