@@ -68,8 +68,17 @@ https://addons.mozilla.org/firefox/addon/violentmonkey/
 
 ## 脚本插件JS
 
+### GreasyFork
+
 https://greasyfork.org/zh-CN
 
+## OpenUserJS
+
+https://openuserjs.org/
+
+## Userscripts.org
+
+http://userscripts-mirror.org/
 
 # 音频应用类
 http://audiobar.cn
@@ -101,6 +110,4 @@ AirPods 有个不好的地方，
 能够悬空接受电量
 
 # 更加自由 更加模块化 拓展性更强
-
-
 
