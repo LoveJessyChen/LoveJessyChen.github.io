@@ -34,8 +34,14 @@ https://xclient.info
 
 https://www.0daydown.com
 
+https://masuit.com/
 
-## 音乐类
+## 音乐加密文件在线解锁
+http://moresound.tk/music/tool/
+
+https://tool.ixarea.com/music/
+
+## 音频应用类
 http://audiobar.cn
 
 https://audioz.download
