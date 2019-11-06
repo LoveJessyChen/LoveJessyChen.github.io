@@ -103,6 +103,9 @@ https://www.sonimei.cn
 
 https://m.via-app.cn/via/
 
+# Adobe PhoPhotoshop 2020 更新内容
+https://LoveJessyChen.github.io/PS2020_NEW_features
+
 # Future Features
 
 AirPods 有个不好的地方，
