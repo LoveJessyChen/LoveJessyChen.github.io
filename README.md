@@ -70,6 +70,9 @@ https://tool.ixarea.com/music/
 
 https://tampermonkey.net/
 
+macOS 10.14.4及以后系统才用的Safari 12.1.x：
+https://www.lanzous.com/i77f7ta
+
 ## Violentmonkey
 
 仅适用于火狐浏览器
