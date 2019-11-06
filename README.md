@@ -70,8 +70,19 @@ https://tool.ixarea.com/music/
 
 https://tampermonkey.net/
 
-macOS 10.14.4及以后系统才用的Safari 12.1.x：
+macOS 10.14.4及以后系统才用的Safari 12.1.x及以上版本的油猴子：
+
 https://www.lanzous.com/i77f7ta
+
+Tip：macOS的Safari 12+的扩展插件 有两种加载方式：
+
+1.Mac App Store的Safari扩展库在线安装
+
+2.才用mac App形式自动加载到Safari。
+
+注意无法直接安装safariextz为后缀的扩展！！
+
+安装safariextz仅支持Safari 11或以下的版本
 
 ## Violentmonkey
 
