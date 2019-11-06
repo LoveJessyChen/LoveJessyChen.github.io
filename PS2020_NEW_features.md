@@ -6,6 +6,7 @@
 ## 1、图标变圆了
 图标是最能体现两版差异的一个地方，将2019和2020两版的LOGO放在一起，你会发现新版LOGO变圆了，原本的方形被打磨成圆角矩形，里面的PS字样也由蓝色改为白色。
 看下图右边的2020的图标有棱角的圆形。
+![image](https://github.com/LoveJessyChen/LoveJessyChen.github.io/images/image1.jpg)
 其次新版的命名方式也有变化，不再采用CC+年代号的命令方式，而是直接叫做Adobe Photoshop 2020！
 
 Tip：这里补充一下，对于这个命名方式，其实在2019的最后一个版本，ps是20.0.7开始 已经采用了非cc命名方式，
@@ -17,7 +18,7 @@ LOGO对比（左：旧版 右：新版）
 不过小编更怀念CS时代以及早期CC版所使用过的跳出式启动画面，可惜，再也看不到了！
 
 启动画面对比（左：旧版　右：新版）
-
+![image](https://github.com/LoveJessyChen/LoveJessyChen.github.io/images/image2.jpeg)
 ## 3、新功能——云文档
 PS 2020新增加了一项云文档功能，你可以将做好的作品直接保存到Adobe云中，以便与其他设备或设计师交换文件。
 考虑到前几天Adobe刚刚发布了完整版iPad PS，这项功能其实是打通了Windows、Mac、iPad之间最后一道交换屏障，实用性还是不用说的。
