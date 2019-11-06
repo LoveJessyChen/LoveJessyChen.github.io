@@ -38,6 +38,26 @@ https://masuit.com/
 
 https://www.naodai.org/
 
+## 比较好用的音乐网站
+
+http://mctool.cn/music/
+
+http://www.lzzi.cn
+
+https://music.ghpym.com
+
+https://music.qugeek.com/page/music?from=mli.im
+
+## 视频解析网站
+http://mctool.cn/video/
+
+## MCTool
+http://mctool.cn
+
+## 歌词字幕在线转换器
+
+http://www.lrccon.com/convert.php
+
 ## 音乐加密文件在线解锁
 http://moresound.tk/music/tool/
 
