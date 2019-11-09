@@ -140,6 +140,16 @@ https://m.via-app.cn/via/
 # Adobe Photoshop 2020 更新内容
 https://LoveJessyChen.github.io/PS2020_NEW_features
 
+# Adobe 2020 Win/Mac SP 
+
+下载地址：
+
+https://pan.baidu.com/s/1-PvioeCMCqulHiG0l5B7mA
+
+解压密码 @vpos
+
+https://LoveJessyChen.github.io/Adobe2020SP
+
 # Future Features
 
 AirPods 有个不好的地方，
