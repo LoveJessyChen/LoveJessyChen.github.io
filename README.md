@@ -70,11 +70,20 @@ https://tool.ixarea.com/music/
 
 https://tampermonkey.net/
 
-macOS 10.14.4及以后系统才用的Safari 12.1.x及以上版本的油猴子：
+### macOS 10.14.4及以后系统才用的Safari 12.1.x及以上版本的油猴子
+
+#### TamperMonkey Mac Safari 4.9.6005
 
 https://www.lanzous.com/i77f7ta
 
-Tip：macOS的Safari 12+的扩展插件 有两种加载方式：
+#### TamperMonkey For Mac Safari
+
+此蓝奏云链接的文件夹的地址版本将持续更新
+
+https://www.lanzous.com/b03sag0tc    
+密码:bwhj
+
+#### Tip：macOS的Safari 12+的扩展插件 有两种加载方式：
 
 1.Mac App Store的Safari扩展库在线安装
 
