@@ -150,6 +150,22 @@ https://www.sonimei.cn
 
 https://m.via-app.cn/via/
 
+# Chrome 的一些实用技巧
+
+## Mac永远允许flash启用的政策配置方案
+
+https://LoveJessyChen.github.io/blob/master/MacEnbaleFlashForever
+
+## Chrome开启多线程下载
+
+打开 Chrome 浏览器，国产 Chrome 内核的浏览器通通适用，包括前段时间推送的新版 Edge 也可以，在地址栏输入
+
+chrome://flags/#enable-parallel-downloading
+
+打开后
+
+选择“Enable”，出现"Relaunch"(重启浏览器)，点击它，重启后就开启了多线程下载功能
+
 # Adobe Photoshop 2020 更新内容
 https://LoveJessyChen.github.io/PS2020_NEW_features
 
