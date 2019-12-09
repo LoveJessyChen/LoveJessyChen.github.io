@@ -1,12 +1,12 @@
 # Mac永远允许flash启用的政策配置方案 完整版
 
-defaults write com.google.Chrome DefaultPluginsSetting -int "1"
+### defaults write com.google.Chrome DefaultPluginsSetting -int "1"
 
-defaults write com.google.Chrome AllowOutdatedPlugins "<true />"
+### defaults write com.google.Chrome AllowOutdatedPlugins "<true />"
 
-defaults write com.google.Chrome HardwareAccelerationModeEnabled "<true />"
+### defaults write com.google.Chrome HardwareAccelerationModeEnabled "<true />"
 
-defaults write com.google.Chrome RunAllFlashInAllowMode "<true />"
+### defaults write com.google.Chrome RunAllFlashInAllowMode "<true />"
 
 
 ## ———————————————————————
