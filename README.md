@@ -154,7 +154,7 @@ https://m.via-app.cn/via/
 
 ## Mac永远允许flash启用的政策配置方案
 
-https://LoveJessyChen.github.io/MacEnbaleFlashForever
+https://LoveJessyChen.github.io/MacEnbaleFlashForever.htm
 
 ## Chrome开启多线程下载
 
