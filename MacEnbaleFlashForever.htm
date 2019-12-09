@@ -1,0 +1,37 @@
+<h1>Mac永远允许flash启用的政策配置方案 完整版</h1>
+
+<h3>defaults write com.google.Chrome DefaultPluginsSetting -int &quot;1&quot;</h3>
+
+<h3>defaults write com.google.Chrome AllowOutdatedPlugins &quot;&lt;true /&gt;&quot;</h3>
+
+<h3>defaults write com.google.Chrome HardwareAccelerationModeEnabled &quot;&lt;true /&gt;&quot;</h3>
+
+<h3>defaults write com.google.Chrome RunAllFlashInAllowMode &quot;&lt;true /&gt;&quot;</h3>
+
+<h2>———————————————————————</h2>
+
+<p>defaults write com.google.Chrome PluginsAllowedForUrls -array &quot;https://*&quot;</p>
+
+<p>defaults write com.google.Chrome PluginsAllowedForUrls -array &quot;http://*&quot;</p>
+
+<p>上面这两条只能是添加仅有的单个域名添加方法！！</p>
+
+<p>可以任选一条先添加作为范例，后期容易添加第二条或更多条！！！</p>
+
+<h2>——————————————————————</h2>
+
+<h1>PluginsAllowedForUrls这条添加多个值需要用以下方法：</h1>
+
+<h2>Mac下的Chrome的PluginsAllowedForUrls添加多个值的方法</h2>
+
+<p>用finder进入路径：~/Library/Preferences/，</p>
+
+<p>用PrefEdit或Xcode打开com.google.Chrome.plist文件。</p>
+
+<p>然后把PluginsAllowedForUrls 这个字段，分别依次添加两个String类型的值：</p>
+
+<p>&quot;http://<em>&quot; 、 &quot;https://</em>&quot; </p>
+
+<p>不带双引号！！</p>
+
+<p>注意：http放在https前面添加！</p>
