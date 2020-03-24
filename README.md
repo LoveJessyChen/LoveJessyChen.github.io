@@ -182,6 +182,21 @@ https://pan.baidu.com/s/1-PvioeCMCqulHiG0l5B7mA
 
 https://LoveJessyChen.github.io/Adobe2020SP
 
+# About Sheet Music
+
+## 扒谱的那些事儿
+
+推一个纯钢琴音乐的扒谱软件参考器。
+众所周知，有很多软件类似audioscore、widi3，等等。
+今天在推荐一个AnthemScore
+*全名大家自己猜测哈！
+
+## Optical Music Recognition
+
+说到光符音乐识别，大家很容易联想到光符字符识（OCR）.其实确实是这样，他们有着非常相似的用途和作用。都是把图片的不可方便编辑的元素转化为更加自由编辑的内容。
+
+常见的软件有Photoscore，SmartScore，PDFToMusi
+
 # Future Features
 
 AirPods 有个不好的地方，
