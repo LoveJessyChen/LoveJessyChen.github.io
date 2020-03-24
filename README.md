@@ -195,7 +195,7 @@ https://LoveJessyChen.github.io/Adobe2020SP
 
 说到光符音乐识别，大家很容易联想到光符字符识（OCR）.其实确实是这样，他们有着非常相似的用途和作用。都是把图片的不可方便编辑的元素转化为更加自由编辑的内容。
 
-常见的软件有Photoscore，SmartScore，PDFToMusi
+常见的软件有Photoscore，SmartScore，PDFToMusic
 
 # Future Features
 
