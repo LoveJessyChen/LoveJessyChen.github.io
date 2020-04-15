@@ -9,7 +9,7 @@ https://pan.lanzou.com/u/198099861
 
 # Socre Sharing - 曲谱分享
 
-https://LoveJessyChen.github.io/blob/master/Score_sharing.md
+https://LoveJessyChen.github.io/Score_sharing
 
 # iOS Jailbreak Repo
 
