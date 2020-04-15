@@ -7,7 +7,12 @@ https://LoveJessyChen.github.io/
 
 https://pan.lanzou.com/u/198099861
 
+# Socre Sharing - 曲谱分享
+
+https://LoveJessyChen.github.io/blob/master/Score_sharing.md
+
 # iOS Jailbreak Repo
+
 ## iOS 越狱源
 
 输入以下地址可以访问源：
