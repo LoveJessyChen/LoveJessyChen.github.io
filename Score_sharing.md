@@ -52,6 +52,16 @@ https://lanzous.com/b03sm4sne
 
 ## 曲谱的源文件下载地址：
 
+### 蓝奏云 链接
+
 https://lanzous.com/b03skl6la
 
 密码:1trx
+
+### OneDrive 链接
+
+https://jia666-my.sharepoint.com/:f:/g/personal/c1907755919_xkx_me/Es1yaW5wWkFHkFfpzX3FTp0BlGUBABbrOLEElRB3fXoH2g?e=IC6l8v
+
+### 天翼云盘 链接
+
+https://cloud.189.cn/t/bEfMZnNRr6fe      访问码：6ot
