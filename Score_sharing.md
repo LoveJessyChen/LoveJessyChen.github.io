@@ -62,6 +62,6 @@ https://lanzous.com/b03skl6la
 
 https://jia666-my.sharepoint.com/:f:/g/personal/c1907755919_xkx_me/Es1yaW5wWkFHkFfpzX3FTp0BLozpGNWJDskvyHihbJ_bIw
 
-## Musescor Profile of Me
+## Musescore Profile of Me
 
 https://musescore.com/user/11147046
