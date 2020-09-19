@@ -220,6 +220,6 @@ AirPods 有个不好的地方，
 
 # 更加自由 更加模块化 拓展性更强
 
-# 热点新闻
+# Hot News
 
 https://lovejessychen.github.io/Hot_News
