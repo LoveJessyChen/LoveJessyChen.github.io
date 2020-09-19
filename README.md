@@ -181,11 +181,15 @@ https://LoveJessyChen.github.io/PS2020_NEW_features
 
 # Adobe 2020 Win/Mac SP 
 
-下载地址：
+https://weibo.com/vposy
 
-https://pan.baidu.com/s/1-PvioeCMCqulHiG0l5B7mA
+百度：https://pan.baidu.com/s/1qJYUFvQJPqjxHv4Qm91dmg 提取码: bgs5
 
-解压密码 @vpos
+
+天翼 cloud.189.cn/t/uuaeqyvq2Qb2 访问码：5ypm
+
+
+解压密码 @vposy
 
 https://LoveJessyChen.github.io/Adobe2020SP
 
