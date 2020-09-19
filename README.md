@@ -80,6 +80,8 @@ https://tampermonkey.net/
 
 ### macOS 10.14.4及以后系统才用的Safari 12.1.x及以上版本的油猴子
 
+#### 下载地址：https://wwa.lanzous.com/b03sag0tc   密码:bwhj
+
 #### TamperMonkey Mac Safari 4.9.6079
 
 https://www.lanzous.com/i79gv3g
