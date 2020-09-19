@@ -196,7 +196,6 @@ https://LoveJessyChen.github.io/Adobe2020SP
 推一个纯钢琴音乐的扒谱软件参考器。
 众所周知，有很多软件类似audioscore、widi3，等等。
 今天在推荐一个AnthemScore
-*全名大家自己猜测哈！
 
 ## Optical Music Recognition
 
