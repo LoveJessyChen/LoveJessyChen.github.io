@@ -11,6 +11,10 @@ https://pan.lanzou.com/u/198099861
 
 https://LoveJessyChen.github.io/Score_sharing
 
+# 利用bspatch注入A10和A11的iOS 14.x以上系统的checkra1n越狱支持
+
+https://LoveJessyChen.github.io/checkra1n_patch_A10_A11
+
 # iOS Jailbreak Repo
 
 ## iOS 越狱源
