@@ -38,3 +38,19 @@ sudo chmod -R 777 /Applications/checkra1n.app/Contents/MacOS
  
 /Applications/checkra1n.app/Contents/MacOS/checkra1n-patch -cs
 
+
+
+
+# 附件下载地址
+
+## GitHub页面：
+
+https://github.com/LoveJessyChen/checkra1n-a10-a11-patch-backup
+
+
+
+## 或者蓝奏云：
+
+https://wwa.lanzous.com/b03t4f56d  
+密码:bv2j
+
