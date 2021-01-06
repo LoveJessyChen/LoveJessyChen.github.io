@@ -60,7 +60,6 @@ brew install ffmpeg
 
 1.在finder中 按下组合快捷键command+shift+g，打开~/Documents 
 
-
 在当前的文档文件夹下，新建文件夹FFmpeg，进入文件夹内再新建文件夹bin。
 
 2.把ffmpeg、ffplay、ffprobe三个解压出来的二进制文件复制到bin里边。
