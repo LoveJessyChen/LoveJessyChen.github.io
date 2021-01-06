@@ -17,7 +17,9 @@ brew install wget
 
 
 ## 2. 安装python3.7.3，从官网直接下载安装包
+
 https://www.python.org/downloads/
+
 检测python安装是否成功:终端---键入python3回车,显示python版本为3.7.3. 关闭该窗口.
 
 
@@ -26,9 +28,11 @@ https://www.python.org/downloads/
 
 
 在终端依次输入以下命令：
+
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 python3 get-pip.py
+
 安装完成后，可以查看一下 pip3 的版本：
 
 pip3 -V
@@ -43,27 +47,39 @@ python3 -m pip install torch torchvision -i https://pypi.tuna.tsinghua.edu.cn/si
 等待安装完毕 关闭窗口
 
 同时升级pip版本(后面要用)
+
 Python3 -m pip install --upgrade pip
 
 
 ## 5.安装ffmpeg
+
 brew install ffmpeg
 
 
 ### *为ffmpeg设置mac下的环境变量：
+
 1.在finder中 按下组合快捷键command+shift+g，打开~/Documents 
+
 在当前的文档文件夹下，新建文件夹FFmpeg，进入文件夹内再新建文件夹bin。
+
 2.把ffmpeg、ffplay、ffprobe三个解压出来的二进制文件复制到bin里边。
+
 3.在finder中 按下组合快捷键command+shift+g，打开~/
+
 4.再在当前窗口处按下command+shift+. 目的是为了显示所有的隐藏文件，
+
 之后我们看到了.bash_profile,
 
 ## 5.在此文件末尾处添加下面的内容：
+
 FFMPEG_HOME=/Users/admin/Documents/FFmpeg/bin
+
 export FFMPEG_HOME
+
 export PATH=$PATH:$FFMPEG_HOME/bin
 
 admin换成你自己的用户名
+
 最后刷新一下：
 
 source .bash_profile
@@ -72,13 +88,18 @@ source .bash_profile
 ## 6.安装软件需求
 
 Python3 -m pip install -r requirements.txt
+
 耐心等待依赖库安装完毕 这一步建议找个梯子 不然速度可能很慢。
+
 如果这一步安装失败,可能因为网络原因.
+
 解决方案:
+
 重复键入pip install -r requirements.txt 执行直到出现上图successfully 字样。
 
 
 ## 7.关于setup.py文件的说明：
+
 在Mac下，文件的音频输入以及mid文件输出的路径需要写完整路径。
 
 ## 最后，在Mac下运行的方法是
