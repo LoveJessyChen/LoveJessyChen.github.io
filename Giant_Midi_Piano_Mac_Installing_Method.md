@@ -15,12 +15,43 @@ brew install wget
 ## 1.5 将文件note_F1=0.9677_pedal_F1=0.9186.pth放到下列目录: (没有就建立)
 \Users\你的账户名称\piano_transcription_inference_data\
 
+本文件也可以从这里下载：
+
+
+https://zenodo.org/record/4034264/files/CRNN_note_F1%3D0.9677_pedal_F1%3D0.9186.pth?download=1
+
 
 ## 2. 安装python3.7.3，从官网直接下载安装包
 
 https://www.python.org/downloads/
 
 检测python安装是否成功:终端---键入python3回车,显示python版本为3.7.3. 关闭该窗口.
+
+
+
+#### *切换python的默认版本：
+
+
+(这一步也可以不需要)
+
+1.修改用户根目录下的~/.bash_profile文件，在终端输入：
+
+open ~/.bash_profile
+
+2.在文件中新增一行：
+
+// 具体版本根据你/Library/Frameworks/Python.framework/Versions这个路径下最新版本自选
+
+
+// 我的版本是3.7
+
+
+alias python="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7"
+
+3.添加完之后执行
+
+
+source ~/.bash_profile
 
 
 
@@ -40,7 +71,14 @@ pip3 -V
 
 ## 4.安装pytorch:
 
+
+方法1:python3 -m pip install torch-1.7.1-cp37-none-macosx_10_9_x86_64.whl
+
+下载地址:https://pypi.tuna.tsinghua.edu.cn/packages/96/5f/d2157c05a2ff941a5c221982c28311802e1cde3c1b0279fc5cac17b0f39f/torch-1.7.1-cp37-none-macosx_10_9_x86_64.whl
+
 （也可以从这里下载：https://download.pytorch.org/whl/torch_stable.html）
+
+方法2:
 
 python3 -m pip install torch torchvision -i https://pypi.tuna.tsinghua.edu.cn/simple
 
@@ -49,6 +87,7 @@ python3 -m pip install torch torchvision -i https://pypi.tuna.tsinghua.edu.cn/si
 同时升级pip版本(后面要用)
 
 Python3 -m pip install --upgrade pip
+
 
 
 ## 5.安装ffmpeg
