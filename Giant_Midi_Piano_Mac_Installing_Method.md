@@ -109,7 +109,7 @@ brew install ffmpeg
 
 之后我们看到了.bash_profile,
 
-## 5.在此文件末尾处添加下面的内容：
+5.在此文件末尾处添加下面的内容：
 
 FFMPEG_HOME=/Users/admin/Documents/FFmpeg/bin
 
