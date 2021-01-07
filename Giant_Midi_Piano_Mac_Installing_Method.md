@@ -160,3 +160,8 @@ Python3 ./setup.py
 电脑不太好的情况下建议使用cpu模式。
 
 Cuda是显卡模式，cpu是中央处理器运算模式
+
+# 资源包下载：
+## 百度网盘 地址：
+
+链接: https://pan.baidu.com/s/1wOmHKNDnsiBRPKD1obv2Uw 提取码: 2jai 
