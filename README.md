@@ -240,3 +240,30 @@ AirPods 有个不好的地方，
 # Hot News
 
 https://lovejessychen.github.io/Hot_News
+
+
+# MustangYM/WeChatExtension-ForMac
+
+## issue 1148
+
+https://github.com/MustangYM/WeChatExtension-ForMac/issues/1148
+
+为防止封号/限制登录
+从2021.7.12开始 请停止使用本插件
+版本是2.9.2 （或者低于2.9.2）
+
+我自己也被限制了两次 ，我的版本是2.9.2 两次都把mac客户端挂着的时候 直接踢下线。
+第一次是7月13日晚上，
+第二次是7月16日晚上。
+
+删除mac wechat小助手的方法：
+
+https://mac.weixin.qq.com/?t=mac&lang=zh_CN
+
+去官网下载原版mac 通用客户端的dmg文件
+拖到应用程序中覆盖 替换掉 会自动删除其他文件的
+
+ps：因为mac的替换和合并文件夹是不一样的操作
+
+去除朋友圈限制等方法：
+用手机微信扫描电脑版后，会在微信团队的公众号收到提示，点击消息后，按照提示进行操作可以申请解封。期间最后一步验证方法建议用绑定手机号码进行短信验证 可以一步通过并解除。我本人亲测
