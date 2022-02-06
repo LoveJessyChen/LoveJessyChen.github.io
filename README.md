@@ -10,7 +10,11 @@ https://pan.lanzou.com/u/198099861
 # Adobe Mac 2022
 	
 目前只有Photoshop 23.1.0和Lightroom Classic 11.1.0
-完美支持Arm64和x64两种架构的Mac电脑。百度云盘 链接: https://pan.baidu.com/s/1fDOsYPhSoCbW7aG5oXj4rw?pwd=rtzm 提取码: rtzm
+
+
+完美支持Arm64和x64两种架构的Mac电脑。
+
+百度云盘 链接: https://pan.baidu.com/s/1fDOsYPhSoCbW7aG5oXj4rw?pwd=rtzm 提取码: rtzm
 
 # ios 14.5 webkit exploit
 
