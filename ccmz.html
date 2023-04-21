@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>ccmz解密--直接拖进来</title>
+    <style>
+    body {
+        word-break: break-all;
+        margin: 0 1em;
+        min-height: 100vh;
+        font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+        overflow: hidden;
+    }
+
+    .empty::before {
+        position: absolute;
+        font-size: 50px;
+        content: '把ccmz文件\A拖到这里';
+        white-space: pre;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        color: gray;
+        text-align: center;
+        padding: 10%;
+    }
+
+    .border::before {
+        border: dotted 2px cyan;
+        content: '松手开始解析';
+    }
+
+    .decoding::before {
+        content: '正在解析\A请稍后。';
+    }
+
+    .finish::before {
+        content: '解析完毕\A等待下载';
+    }
+
+    </style>
+</head>
+
+<body class="empty">
+    <script>
+    function download(buff, name) {
+        let url = window.URL.createObjectURL(new Blob([buff], { type: "arraybuffer" }))
+        const link = document.createElement('a');
+        link.style.display = 'none';
+        link.href = url;
+        link.setAttribute('download', name);
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+
+    window.addEventListener("dragenter", function (event) {
+        event.preventDefault();
+        document.body.classList.add('border')
+        document.body.classList.remove('finish');
+    }, false);
+    window.addEventListener("ondragend", function (event) {
+        event.preventDefault();
+        document.body.classList.remove('border')
+    }, false);
+    window.addEventListener("dragover", function (event) {
+        event.preventDefault();
+        document.body.classList.add('border')
+        document.body.classList.remove('finish');
+    }, false);
+    window.addEventListener("dragleave", function (event) {
+        event.preventDefault();
+        document.body.classList.remove('border')
+    }, false);
+    window.addEventListener("drop", function (event) {
+        event.preventDefault();
+        var file = event.dataTransfer.files[0];
+        var reader = new FileReader();
+        reader.onload = function (e) {
+            var buffer = e.target.result;
+            let version = (new Uint8Array(buffer.slice(0, 1)))[0];
+            let data = new Uint8Array(buffer.slice(1))
+            if (version == 1) {} else if (version == 2) {
+                data = data.map((value) => {
+                    return value % 2 == 0 ? value + 1 : value - 1
+                })
+            }
+            download(data, file.name)
+            document.body.classList.add('finish');
+            document.body.classList.remove('decoding')
+        };
+        reader.readAsArrayBuffer(file);
+        document.body.classList.remove('border')
+        document.body.classList.add('decoding')
+    }, false);
+
+    </script>
+</body>
+
+</html>unlccccccmz
