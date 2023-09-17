@@ -3,6 +3,10 @@ Jin's Website
 
 https://LoveJessyChen.github.io/
 
+# TG SHARING
+
+[https://t.me/JessyChen_210](https://t.me/JessyChen_210)
+
 # 我的个人蓝奏云主页 （198099861）
 
 https://pan.lanzou.com/u/198099861
