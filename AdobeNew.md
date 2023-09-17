@@ -27,11 +27,7 @@ Enter Code: 5555
 ## Adobe Mac Sice：
 [https://www.macserialjunkie.com/forum/viewtopic.php?p=1143156](https://www.macserialjunkie.com/forum/viewtopic.php?p=1143156)
 
-[https://www.macserialjunkie.com/forum/viewtopic.php?p=1143156](https://www.macserialjunkie.com/forum/viewtopic.php?p=1143156)https://www.macserialjunkie.com/forum/viewtopic.php?p=1143156
 
 
-
-
-
-https://macserialjunkie.com/forum/viewtopic.php?t=137629
+[https://macserialjunkie.com/forum/viewtopic.php?t=137629](https://macserialjunkie.com/forum/viewtopic.php?t=137629)
 
