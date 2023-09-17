@@ -9,9 +9,9 @@ https://pan.lanzou.com/u/198099861
 
 # Adobe 2023-2024
 
-完美支持Arm64和x64两种架构的Mac电脑。
+Mac版完美支持Arm64和x64两种架构的Mac电脑。
 
-https://LoveJessyChen.github.io/AdobeNew
+[https://LoveJessyChen.github.io/AdobeNew](https://LoveJessyChen.github.io/AdobeNew)
 
 # ios 14.5 webkit exploit
 
