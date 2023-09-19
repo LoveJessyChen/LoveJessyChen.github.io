@@ -13,6 +13,10 @@ https://pan.lanzou.com/u/198099861
 
 # Adobe 2023-2024
 
+Adobe Mac 2023-2024:
+[https://www.123pan.com/s/X5tA-1uuwh.html](https://www.123pan.com/s/X5tA-1uuwh.html)  
+提取码：DUZX
+
 Mac版完美支持Arm64和x64两种架构的Mac电脑。
 
 [https://LoveJessyChen.github.io/AdobeNew](https://LoveJessyChen.github.io/AdobeNew)
