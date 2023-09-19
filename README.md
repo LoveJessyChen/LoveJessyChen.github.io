@@ -17,6 +17,10 @@ Mac版完美支持Arm64和x64两种架构的Mac电脑。
 
 [https://LoveJessyChen.github.io/AdobeNew](https://LoveJessyChen.github.io/AdobeNew)
 
+# Tampermonkey Mac 4.20.6184 [MAS] [K]
+
+[https://workupload.com/file/cnnSF8tJfCh](https://workupload.com/file/cnnSF8tJfCh)
+
 # ios 14.5 webkit exploit
 
 https://lovejessychen.github.io/14.5-webkit/source/index.html
