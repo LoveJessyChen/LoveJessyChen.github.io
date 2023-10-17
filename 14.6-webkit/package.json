@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/RPwnage/pwn-my#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "path": "^0.12.7",
     "socket.io": "^4.1.2"
   }
