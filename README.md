@@ -50,9 +50,7 @@ https://LoveJessyChen.github.io/XinRepo/
 
 LoveJessyChen
 
-# iPhone 12 (2020 Autumn)
-
-https://LoveJessyChen.github.io/iPhone12
+ 
 
 # 推荐一些其他实用的小网站
 ## IPA下载站：
