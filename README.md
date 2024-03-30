@@ -312,16 +312,6 @@ https://LoveJessyChen.github.io/PS2020_NEW_features
 
 # Adobe 2020 Win/Mac SP 
 
-https://weibo.com/vposy
-
-百度：https://pan.baidu.com/s/1qJYUFvQJPqjxHv4Qm91dmg 提取码: bgs5
-
-
-天翼 cloud.189.cn/t/uuaeqyvq2Qb2 访问码：5ypm
-
-
-解压密码 @vposy
-
 https://LoveJessyChen.github.io/Adobe2020SP
 
 # About Sheet Music
