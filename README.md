@@ -11,13 +11,32 @@ https://LoveJessyChen.github.io/
 
 https://pan.lanzou.com/u/198099861
 
-# Adobe 2023-2024
+# Adobe 2024
 
-Adobe Mac 2023-2024:
-[https://www.123pan.com/s/X5tA-1uuwh.html](https://www.123pan.com/s/X5tA-1uuwh.html)  
-提取码：DUZX
+## 2024 Patch Download Link:
+(Other Adobe APP Update Soon!):
+https://www.123pan.com/s/X5tA-eXuwh.html
 
-Mac版完美支持Arm64和x64两种架构的Mac电脑。
+ 
+
+——-—————————————
+## Adobe Mac Installation:
+
+### 2024 Mac:
+https://www.123pan.com/s/X5tA-S0uwh.html
+
+### XD 57.1 Intel/ARM Patched:
+https://www.123pan.com/s/X5tA-IvUwh.html
+Enter Code: raz2
+
+### Dreamweaver 21.3 :
+https://www.123pan.com/s/X5tA-peUwh.html
+
+___________________________
+### Adobe Mac Helpers: (To Fix Adobe apps Installing failed.)
+https://www.123pan.com/s/X5tA-UTlwh.html
+
+## Mac版完美支持Arm64和x64两种架构的Mac电脑。
 
 [https://LoveJessyChen.github.io/AdobeNew](https://LoveJessyChen.github.io/AdobeNew)
 
