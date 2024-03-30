@@ -2,15 +2,19 @@
 
 ----
 
-IPA 下载站：Decrypt.day
+## IPA 下载站：
+
+Decrypt.day
 
 **https://t.me/py996** / **https://t.me/tkdashen**
 
+## 其他ipa网站请看链接中内容：
+
+https://lovejessychen.github.io/#ipa%E4%B8%8B%E8%BD%BD%E7%AB%99
 
 
 
-
-预备知识：
+## 预备知识：
 
 1.Apple Watch、Apple Vision Pro、Apple TV、iPhone、iPad 他们的安装包和刷机格式都分别是ipa、ipsw，但是他们虽然都用同一个后缀名 但是包内容略有区别，即便他们系统都基于iOS，iOS继承自macOS（Darwin/BSD）,
 
@@ -70,7 +74,7 @@ you will get an error saying developer mode is not enabled.
 
 1. 激活开发者模式：https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device
 
-   ![psc (1)](psc (1).jpg)
+   ![psc%20(1)](psc%20(1).jpg)
 
 2. 安装连接件：拿掉遮光罩 和后边的绑带，然后看到右侧的一个小洞口，用取卡针轻按下洞口，将右侧的音频带 缓慢拉出，然后 把developer strap插口对准这个接口然后慢慢按下。（具体的一些图示教程可看内置说明书 非常详细，这里就不赘述了。）
 
