@@ -161,6 +161,8 @@ https://ipsw.me
 
 https://ipswbeta.dev/
 
+https:/theapplewiki.com/
+
 https://macked.app/
 
 https://www.iphonecake.com
