@@ -105,11 +105,11 @@ win32位：    https://secure-appldnld.apple.com/itunes12/091-87820-20180912-691
 Mac版本：    https://secure-appldnld.apple.com/itunes12/091-87821-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A/iTunes12.6.5.dmg
 
 
-### Apple Configurator
+##  Apple Configurator
 
 下载地址：https://apps.apple.com/cn/app/apple-configurator/id1037126344
 
-iTunes下载的固件的存放路径：
+### iTunes下载的固件的存放路径：
 
 **~/Library/iTunes/**
 
@@ -119,9 +119,13 @@ Apple Configurator 2下载的ipa的存放路径：
 
 在Mac系统中可用，也可以下载iOS的ipa文件 
 
-使用手册：https://support.apple.com/zh-cn/guide/apple-configurator-2/welcome/2.9/mac
+### 使用手册： 
 
-管理 iOS 软件：https://support.apple.com/zh-cn/100862?caller=baiduansbx&cid=baiduansbx05
+https://support.apple.com/zh-cn/guide/apple-configurator-2/welcome/2.9/mac
+
+### 管理 iOS 软件：
+
+https://support.apple.com/zh-cn/100862?caller=baiduansbx&cid=baiduansbx05
 
 从 Apple Configurator 1.3 开始，您可以通过两种方式手动管理 iOS 软件（IPSW 文件）。
 
