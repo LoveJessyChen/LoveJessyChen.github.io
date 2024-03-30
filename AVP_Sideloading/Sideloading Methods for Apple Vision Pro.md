@@ -107,9 +107,9 @@ you will get an error saying developer mode is not enabled.
 
 6. 安装完毕后，拔掉线缆USB-C To USB-C，戴上vision pro，打开“设置”，点击“通用”，点击“VPN与设备管理”，再点击刚刚签名的“id邮箱” .r然后点击蓝色的“信任APP”，然后关闭设置，就可以在兼容的apps文件夹中，的第一页找到刚刚装的app，点击它打开就可使用了！
 
-   ![psc (3)](psc (3).jpg)
+   ![psc%20(3)](psc%20(3).jpg)
 
-   ![psc (2)](psc (2).jpg)
+   ![psc%20(2)](psc%20(2).jpg)
 
 
 
