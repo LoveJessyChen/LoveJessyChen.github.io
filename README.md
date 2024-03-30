@@ -80,7 +80,9 @@ ipacrack.com
 
 iosgods.com
 
-**https://t.me/py996** / **https://t.me/tkdashen**
+**https://t.me/py996** 
+
+**https://t.me/tkdashen**
 
 ## IPA签名软件或站点：
 
