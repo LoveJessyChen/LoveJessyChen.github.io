@@ -115,17 +115,28 @@ Mac版本：    https://secure-appldnld.apple.com/itunes12/091-87821-20180912-69
 https://www.123pan.com/s/X5tA-jdlwh.html
 
 ## iOS/macOS/Win软件类
+
+https://downloadlynet.ir/
+
+https://macked.app/
+
+https://macserialjunkie.com/forum/
+
 https://iBeta.me
 
 https://ipsw.me
 
 https://www.iphonecake.com
 
+https://www.0daydown.com
+
+-----
+
+以下就是以前推荐的网站:
+
 http://www.macbed.com
 
 https://xclient.info
-
-https://www.0daydown.com
 
 https://masuit.com/
 
