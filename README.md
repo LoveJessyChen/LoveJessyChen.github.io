@@ -161,7 +161,7 @@ https://ipsw.me
 
 https://ipswbeta.dev/
 
-https:/theapplewiki.com/
+https://theapplewiki.com/
 
 https://macked.app/
 
