@@ -109,8 +109,8 @@ Mac版本：    https://secure-appldnld.apple.com/itunes12/091-87821-20180912-69
 
 下载地址：https://apps.apple.com/cn/app/apple-configurator/id1037126344
 
-###   iTunes下载的固件的存放路径：
-**~/Library/iTunes/**
+###   iTunes下载的ipa的存放路径：
+**~/Library/iTunes/iTunes Media/Mobile Applications/**
 
 ###  Apple Configurator 2下载的ipa的存放路径：
 
