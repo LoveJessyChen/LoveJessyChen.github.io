@@ -6,7 +6,9 @@
 
 Decrypt.day
 
-**https://t.me/py996** / **https://t.me/tkdashen**
+**https://t.me/py996** 
+
+**https://t.me/tkdashen**
 
 ## 其他ipa网站请看链接中内容：
 
