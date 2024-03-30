@@ -55,6 +55,43 @@ LoveJessyChen
 https://LoveJessyChen.github.io/iPhone12
 
 # 推荐一些其他实用的小网站
+## IPA下载站：
+
+Decrypt.day
+
+ipacrack.com
+
+iosgods.com
+
+**https://t.me/py996** / **https://t.me/tkdashen**
+
+## IPA签名软件或站点：
+
+PC/Mac的爱思助手：https://www.i4.cn/
+
+Sideloadly：https://sideloadly.io/
+
+AltStore: https://altstore.io/
+
+内测侠：www.neicexia.com
+
+## 苹果设备管理工具：
+
+
+## iTunes 12.6.5.3 （可以下载iOS 的ipa文件）：
+Win64位版：  https://secure-appldnld.apple.com/itunes12/091-87819-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A6/iTunes64Setup.exe
+win32位：    https://secure-appldnld.apple.com/itunes12/091-87820-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A5/iTunesSetup.exe
+Mac版本：    https://secure-appldnld.apple.com/itunes12/091-87821-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A/iTunes12.6.5.dmg
+
+
+### Apple Configurator
+在Mac系统中可用，也可以下载iOS的ipa文件 
+
+### Mac Finder ( 苹果系统自带)
+
+### iMazing 2.17.5: 
+
+https://www.123pan.com/s/X5tA-jdlwh.html
 
 ## iOS/macOS/Win软件类
 https://iBeta.me
