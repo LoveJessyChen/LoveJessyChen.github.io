@@ -141,9 +141,9 @@ https://support.apple.com/zh-cn/100862?caller=baiduansbx&cid=baiduansbx05
 
 将 IPSW 文件置于“Firmware”文件夹后，Apple Configurator 不会从互联网下载该版本的软件。但是，如果 iTunes 已将该版本下载到用户的 iTunes 资料库中，Apple Configurator 便会使用 iTunes 资料库中的版本。
 
-### Mac Finder ( 苹果系统自带)
+## Mac Finder (苹果系统自带)
 
-### iMazing 2.17.5: 
+## iMazing 2.17.5: 
 
 https://www.123pan.com/s/X5tA-jdlwh.html
 
