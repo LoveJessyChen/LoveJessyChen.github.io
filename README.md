@@ -106,7 +106,37 @@ Mac版本：    https://secure-appldnld.apple.com/itunes12/091-87821-20180912-69
 
 
 ### Apple Configurator
+
+下载地址：https://apps.apple.com/cn/app/apple-configurator/id1037126344
+
+iTunes下载的固件的存放路径：
+
+**~/Library/iTunes/**
+
+Apple Configurator 2下载的ipa的存放路径：
+
+**~/Library/Group Containers/K36BKF7T3D.group.com.apple.configurator/Library/Caches/Assets/TemporaryItems/MobileApps/**
+
 在Mac系统中可用，也可以下载iOS的ipa文件 
+
+使用手册：https://support.apple.com/zh-cn/guide/apple-configurator-2/welcome/2.9/mac
+
+管理 iOS 软件：https://support.apple.com/zh-cn/100862?caller=baiduansbx&cid=baiduansbx05
+
+从 Apple Configurator 1.3 开始，您可以通过两种方式手动管理 iOS 软件（IPSW 文件）。
+
+使用“编辑自定 iOS 版本”命令
+在 Apple Configurator 中，按住 Option 键并选取“设备”>“编辑自定 iOS 版本”。随后您便可以添加或删除自定版本的 iOS 软件，如 Developer Preview。
+
+您通过这种方式添加的所有 IPSW 文件都会出现在 Apple Configurator 的 iOS 弹出式菜单中。
+
+将 iOS 软件置于“Firmware”文件夹中
+
+将 IPSW 文件拖移到以下位置的“Firmware”文件夹中：
+
+**~/资源库/Containers/com.apple.configurator/Data/Library/Caches/com.apple.configurator/Firmware/**
+
+将 IPSW 文件置于“Firmware”文件夹后，Apple Configurator 不会从互联网下载该版本的软件。但是，如果 iTunes 已将该版本下载到用户的 iTunes 资料库中，Apple Configurator 便会使用 iTunes 资料库中的版本。
 
 ### Mac Finder ( 苹果系统自带)
 
