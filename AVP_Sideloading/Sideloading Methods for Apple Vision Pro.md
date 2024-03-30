@@ -41,9 +41,15 @@ IPA 下载站：Decrypt.day
 ## 激活开发者模式：
 
 1.Connect with Developer Strap and USB-C To USB-C to your Mac.
+
 2.On Vision Pro -> Settings > General > Remote Devices
+
 3.On Mac -> Xcode -> Devices & Simulators -> Select the Vision Pro & enter the code
-4.On Mac -> Run a build targeted at your vision pro device which should now be a run destination (Developer mode setting wasn't visible till I did this), you will get an error saying developer mode is not enabled
+
+4.On Mac -> Run a build targeted at your vision pro device which should now be a run destination (Developer mode setting wasn't visible till I did this), 
+
+you will get an error saying developer mode is not enabled
+
 5.On Vision Pro -> Privacy & Security > Developer Mode
 
 
@@ -128,8 +134,14 @@ IPA 下载站：Decrypt.day
 ## 激活开发者模式：
 
 1.Connect to computer with Same wifi.
-2.On Vision Pro -> Settings > General > Remote Devices
-3.On Mac -> Xcode -> Devices & Simulators -> Select the Vision Pro & enter the code
-4.On Mac -> Run a build targeted at your vision pro device which should now be a run destination (Developer mode setting wasn't visible till I did this), you will get an error saying developer mode is not enabled
-5.On Vision Pro -> Privacy & Security > Developer Mode
+
+2.On Vision Pro -> Settings > General > Remote Devices.
+
+3.On Mac -> Xcode -> Devices & Simulators -> Select the Vision Pro & enter the code.
+
+4.On Mac -> Run a build targeted at your vision pro device which should now be a run destination (Developer mode setting wasn't visible till I did this), 
+
+you will get an error saying developer mode is not enabled.
+
+5.On Vision Pro -> Privacy & Security > Developer Mode.
 
