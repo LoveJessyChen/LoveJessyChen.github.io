@@ -11,6 +11,10 @@ https://LoveJessyChen.github.io/
 
 https://pan.lanzou.com/u/198099861
 
+# Apple Vision Pro Sideloading
+
+https://lovejessychen.github.io/AVP_Sideloading/Sideloading%20Methods%20for%20Apple%20Vision%20Pro
+
 # Adobe 2024
 
 ## 2024 Patch Download Link:
