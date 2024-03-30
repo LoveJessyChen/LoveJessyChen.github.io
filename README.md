@@ -273,6 +273,8 @@ https://openuserjs.org/
 
 http://userscripts-mirror.org/
 
+https://github.com/hoothin/UserScripts
+
 # 音频应用类
 http://audiobar.cn
 
@@ -290,7 +292,11 @@ https://www.sonimei.cn
 
 ## Alook For iOS
 
-## via For Android
+## UserScripts for iOS
+
+https://apps.apple.com/us/app/userscripts/id1463298887
+
+https://github.com/quoid/userscripts
 
 ### 轻插件
 
