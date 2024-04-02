@@ -30,19 +30,19 @@
 
 8. Click Action from the Menu bar → Hold the Option Key → Then, select Restore.
 
-   ![截屏2024-03-30 12.14.33](截屏2024-03-30 12.14.33.png)
+   ![截屏2024-03-30 12.14.33](截屏2024-03-30%2012.14.33.png)
 
-   ![截屏2024-03-30 12.14.47](截屏2024-03-30 12.14.47.png)
+   ![截屏2024-03-30 12.14.47](截屏2024-03-30%2012.14.47.png)
 
 9. When Finder opens, locate the visionOS IPSW restore image you downloaded → Click Restore.
 
-   ![截屏2024-03-30 12.15.00](截屏2024-03-30 12.15.00.png)
+   ![截屏2024-03-30 12.15.00](截屏2024-03-30%2012.15.00.png)
 
 10. On the front display of the Vision Pro, you’ll see an Apple logo followed by a progress bar. On your Mac, you’ll see a Restoring System on device progress bar.
 
-    ![截屏2024-03-30 12.15.16](截屏2024-03-30 12.15.16.png)
+    ![截屏2024-03-30 12.15.16](截屏2024-03-30%2012.15.16.png)
 
-    ![6b6922018031ef260c93aa4b41322339](E:\0 Old Data\AVP0\AVP_Recovery\6b6922018031ef260c93aa4b41322339.jpg)
+    ![6b6922018031ef260c93aa4b41322339](6b6922018031ef260c93aa4b41322339.jpg)
 
     
 
