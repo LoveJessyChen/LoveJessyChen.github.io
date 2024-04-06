@@ -2,6 +2,8 @@ AnthemScore 4 Studio - KeyGen 1.4
 (Windows,You can unlock Mac/Linux version):
 https://workupload.com/file/WAFSXdLezfx
 
+1.5: https://workupload.com/file/w8hTqpyFNEx
+
 _____________________________
 AnthemSc0re 4.17.4:
 Mac Trial:
