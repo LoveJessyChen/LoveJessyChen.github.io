@@ -333,6 +333,10 @@ https://LoveJessyChen.github.io/Adobe2020SP
 
 # About Sheet Music
 
+# AnthemScore
+
+https://lovejessychen.github.io/Anthem
+
 ## 扒谱的那些事儿
 
 推一个纯钢琴音乐的扒谱软件参考器。
