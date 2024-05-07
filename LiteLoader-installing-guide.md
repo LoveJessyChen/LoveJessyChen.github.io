@@ -4,7 +4,9 @@
 此文档为 LiteLoaderQQNT 1.0.0 编写
 :::
 
+# 下载地址：
 
+https://github.com/LiteLoaderQQNT/LiteLoaderQQNT
 
 ## 第三方工具
 
