@@ -1,0 +1,10 @@
+#!name=gg
+#!desc=gg
+
+[Script]
+gg = type=http-response, pattern=^https:\/\/isi\..*\.g.*\.(com\..*|com)\/.+\/(receipts$|subscribers\/?(.*?)*$), script-path=http://git.yycm.link/chxm1023/Rewrite/raw/main/gg.js, requires-body=true, max-size=-1, timeout=60
+
+gg = type=http-request, pattern=^https:\/\/isi\..*\.g.*\.(com\..*|com)\/.+\/(receipts$|subscribers\/?(.*?)*$), script-path=http://git.yycm.link/chxm1023/Rewrite/raw/main/gg.js, timeout=60
+
+[MITM]
+hostname = %APPEND% isi.*.g*.com*
