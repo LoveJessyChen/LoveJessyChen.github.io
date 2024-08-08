@@ -14,9 +14,13 @@ https://pan.lanzou.com/u/198099861
 # XtraFinder
 
 To get a unlimited Xtrafinder Version：
-Go to Path：\Applications\XtraFinder.app\Contents\Resources\XtraFinderPlugins.bundle\Contents\Resources
 
-Rename “Register.nib” to “_Register.nib”
+
+1.Go to Path：
+
+\Applications\XtraFinder.app\Contents\Resources\XtraFinderPlugins.bundle\Contents\Resources
+
+2.Rename “Register.nib” to “_Register.nib”
 
 # Adobe 2024
 
