@@ -11,9 +11,12 @@ https://LoveJessyChen.github.io/
 
 https://pan.lanzou.com/u/198099861
 
-# Apple Vision Pro Sideloading
+# XtraFinder
 
-https://lovejessychen.github.io/AVP_Sideloading/Sideloading%20Methods%20for%20Apple%20Vision%20Pro
+To get a unlimited Xtrafinder Version：
+Go to Path：\Applications\XtraFinder.app\Contents\Resources\XtraFinderPlugins.bundle\Contents\Resources
+
+Rename “Register.nib” to “_Register.nib”
 
 # Adobe 2024
 
