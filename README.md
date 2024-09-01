@@ -11,6 +11,26 @@ https://LoveJessyChen.github.io/
 
 https://pan.lanzou.com/u/198099861
 
+
+# 我的其他平台
+
+
+1.MyMusicSheet：
+
+https://mymusic.st/Jessy
+
+
+
+
+
+2.TaoBao：
+
+https://shop398552893.taobao.com/
+
+---
+
+
+
 # XtraFinder
 
 To get a unlimited Xtrafinder Version：
