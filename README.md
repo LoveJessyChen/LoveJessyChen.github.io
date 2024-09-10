@@ -29,7 +29,9 @@ https://shop398552893.taobao.com/
 
 ---
 
+# iPhone 16 Pro
 
+https://lovejessychen.github.io/Apple/About_iPhone_16_Series
 
 # XtraFinder
 
