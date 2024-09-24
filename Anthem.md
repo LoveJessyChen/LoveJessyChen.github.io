@@ -1,20 +1,5 @@
-AnthemScore 4 Studio - KeyGen 1.4
-(Windows,You can unlock Mac/Linux version):
-https://workupload.com/file/WAFSXdLezfx
+AnthemScore 4.17
 
-1.5: https://workupload.com/file/w8hTqpyFNEx
+https://www.123684.com/s/X5tA-0Cbwh
 
-_____________________________
-AnthemSc0re 4.17.4:
-Mac Trial:
-https://workupload.com/file/Mb3v9DPHwar
-
-Win Trial:
-https://workupload.com/file/t8mEf79J7UP
-
-Linux Trial:
-https://workupload.com/file/hxPTsZStFPr
-
-________________________
-AnthemSc0re 4.16.0 Win Crack only:
-https://workupload.com/file/PkVaZHY4QfY
+https://www.123865.com/s/X5tA-0Cbwh
