@@ -31,3 +31,35 @@ Enter Code: 5555
 
 [https://macserialjunkie.com/forum/viewtopic.php?t=137629](https://macserialjunkie.com/forum/viewtopic.php?t=137629)
 
+
+## Adobe 2024 Patch Download Link:
+https://www.123pan.com/s/X5tA-eXuwh.html
+
+
+alternate：Some Adobe Separate PatcherS：
+
+https://www.123pan.com/s/X5tA-tyuwh.html  
+Enter Code：Sv3b
+
+
+——-—————————————
+## Adobe Mac Installation:
+
+
+XD 57.1 Intel/ARM Patched:
+https://www.123pan.com/s/X5tA-IvUwh.html
+Enter Code: raz2
+
+Dreamweaver 21.4:
+https://www.123pan.com/s/X5tA-Zelwh.html
+
+
+Acrobat For Mac：
+https://www.123pan.com/s/X5tA-PElwh.html
+
+_______________________
+## Adobe Mac Helpers: 
+
+(To Fix Adobe apps Installing failed.)
+https://www.123pan.com/s/X5tA-UTlwh.html
+
