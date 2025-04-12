@@ -5,11 +5,14 @@ https://LoveJessyChen.github.io/
 
 # TG SHARING
 
-[https://t.me/JessyChen_210](https://t.me/JessyChen_210)
+https://t.me/Apple_Sharing_stws
 
 # 我的个人蓝奏云主页 （198099861）
 
 https://pan.lanzou.com/u/198099861
+
+# 解锁iMac M1/4 颜色：
+https://mahdi.jp/apps/accents
 
 
 # 我的其他平台
