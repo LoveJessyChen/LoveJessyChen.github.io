@@ -3,6 +3,9 @@ Jin's Website
 
 https://LoveJessyChen.github.io/
 
+## New Version to disable Mac Security Checking （2025.4.24）：
+https://github.com/LoveJessyChen/Apple-Configs/blob/main/README.md
+
 # TG SHARING
 
 https://t.me/Apple_Sharing_stws
