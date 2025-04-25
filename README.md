@@ -50,6 +50,10 @@ To get a unlimited Xtrafinder Version：
 
 2.Rename “Register.nib” to “_Register.nib”
 
+# iMac_3D_Models
+
+http://LoveJessyChen.github.io/iMac_3D_Models
+
 # Adobe 2024
 
 ## 2024 Patch Download Link:
