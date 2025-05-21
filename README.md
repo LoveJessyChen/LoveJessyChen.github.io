@@ -17,6 +17,8 @@ https://pan.lanzou.com/u/198099861
 # 解锁iMac M1/4 颜色：
 https://mahdi.jp/apps/accents
 
+# Apple Configurator 下载的ipa路径：
+/Library/Group Containers/K36BKF7T3D.group.com.apple.configurator/Library/Caches/Assets/TemporaryItems/MobileApps/
 
 # 我的其他平台
 
